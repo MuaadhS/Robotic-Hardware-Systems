@@ -1,5 +1,5 @@
 # Robotic Hardware Systems
-## Weekly Activities 1: Robotic Hardware (3-CONTROLLER)
+## Weekly Activities 1: Robotic Hardware (CONTROLLERS)
 
 **Controllers** are hardware parts or devices designed to provide instructions and control motion in robotic systems. They are the components programmed to perform a set of desired tasks and functions based on digital algorithms. Due to application variations, controllers have been designed to fit specific criteria that allow them to perform more efficiently and effectively according to the intended application.
 
@@ -19,7 +19,7 @@ Artificial intelligence (AI) applications require controllers that are able to p
 </P>
 
 ### Industrial PC (IPC)
-Industial PCs (IPC) are computers that are designed and constructed based on industrial standards, such as robustness, reliability, redundancy and high quality materials. This type of controllors are mainly used in Manufacturing, Data collection and storage, and SCADA systems.
+Industial PCs (IPC) are computers that are designed and constructed based on industrial standards, such as robustness, reliability, redundancy and high quality materials. This type of controllors are mainly used in Manufacturing, communication, telecommunication, and SCADA systems.
 <p align="center">
 <img src="Boxpc627.jpg" width="250" height="300"></P>
 
@@ -37,3 +37,14 @@ Nowadays, PLCs are commonly used in several applications, such as conveyor belt 
 * Allen Bradley CompactLogix 5480
 
 ### Microcontroller
+Microcontrollers are small integrated circuit devices designed to control the functions in an embedded system. They are normally designed to perform specific tasks which helps in reducing cost, minimizing errors and low power consumption.</P>
+<p align="center">
+<img src="Microcontroller.jpg" width="350" height="200"></P>
+Microcontroller are basic components that are internally integrated in all the previously mentioned controllers. They are used in various applications such as home appliances, office machines, motors control and medical devices.</P>
+
+**Examples of microcontrollers:** </P>
+* Infineon Technologies SAFC161OL25MHA 16BIT MICROCONTROLLER
+* Freescale Semiconductor MAC7112MAG40 MICROCONTROLLER
+* NXP MC9S12DJ128CFUE557 MICROCONTROLLER
+* Microchip PIC16F753-I/P
+* Raspberry Pi ARM MCU RP2040TR7
